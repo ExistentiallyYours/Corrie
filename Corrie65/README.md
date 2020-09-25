@@ -1,5 +1,6 @@
 This is the home of the Corrie65 - A 65% Keyboard designed and built by the mechanical keyboard community!
 Please feel free to contribute as you are able!
+Find us at https://discord.gg/qZtbKNZ
 
 Items Needed:
  - A 65% PCB that supports PCB-mount stabilizers. **Plate mount stabilizers will struggle due to the flexibility of the cardboard plate.**
